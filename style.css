@@ -313,7 +313,11 @@ button:focus, button:hover {
 }
 
 .img {
+<<<<<<< HEAD
     background-image: url("./assets/images/FB_IMG_1546742792556");
+=======
+    background-image: url("./assets/images/blueBonnetsAlongTheLake.jpeg");
+>>>>>>> 2a1275b582f50015f9694c8e932b975d2da90585
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
